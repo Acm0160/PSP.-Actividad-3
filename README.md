@@ -4,6 +4,7 @@ CrearNumeros y OrdenarNumeros, utilizando el operador tubería (|) en la línea 
 
 
 **1. Contexto de las Aplicaciones**
+
 El trabajo asume que los dos fragmentos de código Java ya han sido guardados, compilados y empaquetados como archivos JAR ejecutables.
 
 
@@ -19,6 +20,7 @@ OrdenarNumeros: Lee enteros desde la entrada estándar hasta el final del flujo,
 OrdenarNumeros.jar.
 
 **2. Preparación de los Archivos JAR**
+
 Antes de la prueba, debes haber compilado el código (con javac) y empaquetado cada aplicación en su propio archivo JAR ejecutable (con el comando jar).
 
 Asegúrate de tener listos los dos archivos JAR: 
@@ -31,11 +33,13 @@ D:\Temp.
 
 
 **3. Prueba con el Operador Tubería (|)**
+
 El operador tubería (|) es la clave para esta prueba. En la línea de comandos, este operador redirige la 
 
 Salida Estándar (STDOUT) del programa de la izquierda para que se convierta en la Entrada Estándar (STDIN) del programa de la derecha.
 
 **3.1. Ejecutar el Comando con Tubería**
+
 Abre la terminal o símbolo del sistema y ejecuta la siguiente instrucción:
 
 
