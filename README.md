@@ -56,7 +56,8 @@ br.readLine()), los almacena en un ArrayList, los ordena (Collections.sort(colec
 
 
 
-3.3. Verificar la Salida
+**3.3. Verificar la Salida**
+
 La terminal mostrará la lista de números generados, pero 
 
 ordenados de forma ascendente, confirmando que ambos programas se comunicaron correctamente a través del operador tubería.
